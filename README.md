@@ -1,5 +1,5 @@
 # student-employability-prediction
-# 🎓 Dự đoán việc làm sinh viên sau tốt nghiệp
+# Dự đoán việc làm sinh viên sau tốt nghiệp
 
 Dự án sử dụng các mô hình học máy để dự đoán khả năng **có việc làm/không có việc làm** của sinh viên sau khi tốt nghiệp, dựa trên dữ liệu từ bộ IMDB đã được xử lý lại phù hợp cho bài toán phân loại.
 
